@@ -84,7 +84,7 @@ Built for performance, usability, and scalability inside Zendesk.
 #### Single-page Zendesk nav bar app:
 
   - Search bar + filters
-  - Results table with dual modes:
+#### Results table with dual modes:
   - Flat (paginated, deduplicated)
   - Grouped by keyword (no pagination)
   - Saved searches panel
