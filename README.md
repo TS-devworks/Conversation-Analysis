@@ -26,7 +26,7 @@ Built for performance, usability, and scalability inside Zendesk.
 - Displays highlighted matching snippets
 - Keyword Grouping (Unique Feature)
 - Automatically enabled when 2+ search terms are used
-- Toggle “Group by keyword” to:
+#### Toggle “Group by keyword” to:
 - View results grouped per keyword
 - See match counts per term
 - Identify overlap across terms
