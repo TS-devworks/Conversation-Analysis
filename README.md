@@ -1,14 +1,7 @@
-# Ticket-Conversation-Analysis
-Search Zendesk ticket conversations by keyword or phrase with powerful filtering, grouping, and export capabilities. Quickly find relevant tickets, view highlighted snippets, organize saved searches, and analyze results in a sortable, high-performance table designed for admins, managers, and senior leaders.
-
-Ticket Conversation Analysis
-
-A powerful Zendesk nav bar app for admins and managers to search, analyze, and export ticket conversations at scale.
-
-Search across all ticket comments using keywords or phrases, apply advanced filters, and surface exactly the conversations you need—fast.
+# Conversation-Analysis
 
 ## Overview
-####  Ticket Conversation Analysis enables deep visibility into customer interactions by letting you:
+####  Conversation Analysis enables deep visibility into customer interactions by letting you:
 
   - Search ticket conversations using comma-separated keywords or phrases
   - Instantly surface matching tickets with highlighted snippets
