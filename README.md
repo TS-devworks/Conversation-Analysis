@@ -9,6 +9,8 @@
 
 Built for performance, usability, and scalability inside Zendesk.
 
+<img width="800" height="336" alt="Ticket-Conversation-Analysis-v1 1" src="https://github.com/user-attachments/assets/b90b0420-40d0-49fc-a0b8-aca62f6d9a63" />
+
 ## Key Features:
 - Advanced Keyword Search
 - Supports comma-separated keywords and phrases
@@ -81,5 +83,5 @@ Built for performance, usability, and scalability inside Zendesk.
   - Saved searches panel
   - Parallel data fetching on mount
   
-    <img width="800" height="336" alt="Ticket-Conversation-Analysis-v1 1" src="https://github.com/user-attachments/assets/b90b0420-40d0-49fc-a0b8-aca62f6d9a63" />
+    
 
